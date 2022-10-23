@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "3ddie")(type "KiCad")(uri "${KIPRJMOD}/3ddi3_symbols/footprints.pretty")(options "")(descr ""))
+  (lib (name "Eclectronics")(type "KiCad")(uri "/Users/maxstopyra/Documents/ECLECTRONICS/3ddie/Eclectronics/Eclectronics.pretty")(options "")(descr ""))
+)
