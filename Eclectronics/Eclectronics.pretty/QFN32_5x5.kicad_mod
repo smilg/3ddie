@@ -49,7 +49,7 @@
   (pad 14 smd roundrect (at 0.75 2.4) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 15 smd roundrect (at 1.25 2.4) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 16 smd roundrect (at 1.75 2.4) (size 0.3 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KIPRJMOD}/../Eclectronics/3dshapes/QFN-32_5x5.stp
+  (model ${KIPRJMOD}/Eclectronics/3dshapes/QFN-32_5x5.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -414,7 +414,7 @@
   (pad 65 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 65 smd rect (at 0 0) (size 7.493 7.493) (layers F.Cu))
   (pad 65 smd rect (at 0 0) (size 7.493 7.493) (layers F.Mask))
-  (model ${KIPRJMOD}/../Eclectronics/3dshapes/QFN64_9x9MC.wrl
+  (model ${KIPRJMOD}/Eclectronics/3dshapes/QFN64_9x9MC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.01 0.01 0.01))
     (rotate (xyz 0 0 0))

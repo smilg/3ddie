@@ -19,7 +19,7 @@
   (pad "" np_thru_hole circle (at 0 0) (size 5.8 5.8) (drill 5.8) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -4.25 5.5) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 4.25 5.5) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model /Users/bminch/Documents/KiCad/Eclectronics/3dshapes/3382g-001-xxx.stp
+  (model ${KIPRJMOD}/Eclectronics/3dshapes/3382g-001-xxx.stp
     (offset (xyz 0 -0.6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

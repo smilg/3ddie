@@ -24,7 +24,7 @@
   (pad 1 smd rect (at -1.1 3.7) (size 2.2 2.8) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 8.3 3.7) (size 2.8 2.8) (layers F.Cu F.Paste F.Mask))
   (pad Hole np_thru_hole circle (at 7 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask F.SilkS))
-  (model ${KIPRJMOD}/../Eclectronics/3dshapes/SJ-3524-SMT-TR-BE.step
+  (model ${KIPRJMOD}/Eclectronics/3dshapes/SJ-3524-SMT-TR-BE.step
     (offset (xyz -3.5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

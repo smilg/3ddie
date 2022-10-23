@@ -88,7 +88,7 @@
   (pad 65 thru_hole circle (at 1.27 -1.27) (size 0.6096 0.6096) (drill 0.3048) (layers *.Cu F.Mask))
   (pad 65 thru_hole circle (at 1.27 1.27) (size 0.6096 0.6096) (drill 0.3048) (layers *.Cu F.Mask))
   (pad 65 thru_hole circle (at -1.27 1.27) (size 0.6096 0.6096) (drill 0.3048) (layers *.Cu F.Mask))
-  (model ${KIPRJMOD}/../Eclectronics/3dshapes/QFN64_9x9MC.wrl
+  (model ${KIPRJMOD}/Eclectronics/3dshapes/QFN64_9x9MC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.01 0.01 0.01))
     (rotate (xyz 0 0 0))

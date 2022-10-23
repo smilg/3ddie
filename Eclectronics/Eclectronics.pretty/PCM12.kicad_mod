@@ -27,7 +27,7 @@
   (pad 6 smd rect (at -3.65 0.9715) (size 1 0.8) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -1.5 0) (size 1 1) (drill 0.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 1.5 0) (size 1 1) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/../Eclectronics/3dshapes/pcm12smtr.wrl
+  (model ${KIPRJMOD}/Eclectronics/3dshapes/pcm12smtr.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 180))

@@ -20,7 +20,7 @@
   (pad 6 smd rect (at 2.95 0.325) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at 2.95 -0.325) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 2.95 -0.975) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/../Eclectronics/3dshapes/AB2_TSSOP08.wrl
+  (model ${KIPRJMOD}/Eclectronics/3dshapes/AB2_TSSOP08.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 -90))

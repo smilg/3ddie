@@ -90,7 +90,7 @@
   (pad "57" thru_hole circle (at 0.8 0.8) (size 0.6096 0.6096) (drill 0.3048) (layers *.Cu "F.Mask") (tstamp 3aafc112-6804-475f-bffd-577b6de77c41))
   (pad "57" smd roundrect (at 0 0) (size 3.2 3.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05) (tstamp bd0db103-cfca-4ad5-9c0d-ed250f2d69f1))
   (pad "57" thru_hole circle (at -0.8 0.8) (size 0.6096 0.6096) (drill 0.3048) (layers *.Cu "F.Mask") (tstamp d6203e52-42a2-43be-881c-8fa365687f29))
-  (model "/home/bminch/Documents/KiCad/Eclectronics/3dshapes/RP2040_QFN_PACKAGE.STEP"
+  (model "${KIPRJMOD}/Eclectronics/3dshapes/RP2040_QFN_PACKAGE.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

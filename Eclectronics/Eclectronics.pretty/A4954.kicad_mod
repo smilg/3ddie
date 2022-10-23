@@ -30,7 +30,7 @@
   (pad 17 thru_hole circle (at 0.75 -0.75) (size 0.61 0.61) (drill 0.3) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at 0.75 0.75) (size 0.61 0.61) (drill 0.3) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at -0.75 0.75) (size 0.61 0.61) (drill 0.3) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/../Eclectronics/3dshapes/TSSOP-16.wrl
+  (model ${KIPRJMOD}/Eclectronics/3dshapes/TSSOP-16.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
     (rotate (xyz -90 0 90))
