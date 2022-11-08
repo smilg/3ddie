@@ -4355,7 +4355,7 @@
     (uuid bca2ac86-8d9c-4b32-ab1d-2258827622a1)
     (property "Reference" "U6" (id 0) (at 235.585 169.0202 0))
     (property "Value" "6N137" (id 1) (at 235.585 171.5571 0))
-    (property "Footprint" "" (id 2) (at 235.585 193.04 0)
+    (property "Footprint" "3ddie:6N137_Leadbend" (id 2) (at 235.585 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://rocelec.widen.net/view/pdf/zs07d29frw/ONSM-S-A0003591003-1.pdf?t.download=true&u=5oefqw" (id 3) (at 213.995 166.37 0)
@@ -5162,7 +5162,7 @@
       (reference "U5") (unit 1) (value "MCP1416R") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/bca2ac86-8d9c-4b32-ab1d-2258827622a1"
-      (reference "U6") (unit 1) (value "6N137") (footprint "")
+      (reference "U6") (unit 1) (value "6N137") (footprint "3ddie:6N137_Leadbend")
     )
     (path "/0030390e-c97e-47e6-97d2-f7c983a931fc"
       (reference "U7") (unit 1) (value "BoostedElectrodes") (footprint "")
