@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "3ddie")(type "KiCad")(uri "${KIPRJMOD}/3ddi3_symbols/MGC3130T-I_MQ.kicad_sym")(options "")(descr ""))
-  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Eclectronics/Eclectronics.kicad_sym")(options "")(descr ""))
+  (lib (name "3ddie")(type "KiCad")(uri "${KIPRJMOD}/3ddie_symbols/3ddie.kicad_sym")(options "")(descr ""))
+  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/Eclectronics/Eclectronics.kicad_sym")(options "")(descr ""))
 )

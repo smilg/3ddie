@@ -34,4 +34,9 @@
   (pad "6" smd roundrect (at 5.74 1.27) (size 1.52 1.78) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2b6fbd3e-96ce-4a41-9fcf-4f53d8bfe08a))
   (pad "7" smd roundrect (at 5.74 -1.27) (size 1.52 1.78) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9b48ae5b-ca2a-4b42-87d8-8bfbef288553))
   (pad "8" smd roundrect (at 5.74 -3.81) (size 1.52 1.78) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3fbcea3f-76ef-4fdf-acd8-f9873a993b09))
+  (model "${KIPRJMOD}/3ddie_symbols/3dmodels/6N137SDM.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1.22 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
