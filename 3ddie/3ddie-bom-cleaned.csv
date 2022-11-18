@@ -1,0 +1,37 @@
+Collated Components:,,,,,,,,,,
+,,,,,,,,,,
+Item,Qty,Reference(s),Value,Digikey Catalog #,Manufacturer Part #,,MP3 Part,LibPart,Footprint,Datasheet
+1,3,"C1, C14, C18",0.1?F,1276-1033-1-ND,CL10B104JB8NNNC,,Y,Device:C,Capacitor_SMD:C_0603_1608Metric,~
+2,8,"C2, C3, C4, C5, C6, C7, C10, C11",0.1?F,1292-1366-1-ND,0402X104K500CT,,Y,Device:C,Capacitor_SMD:C_0402_1005Metric,~
+3,2,"C8, C9",1.0?F,1276-6796-1-ND,CL05A105KL5NRNC,,Y,Device:C,Capacitor_SMD:C_0402_1005Metric,~
+4,2,"C12, C13",10µF,490-18214-1-ND,GRM188R61E106KA73D,,Y,Device:C,Capacitor_SMD:C_0603_1608Metric,~
+5,1,C15,2.2?F,490-10731-1-ND,GRM188R61E225KA12D,,N,Device:C,Capacitor_SMD:C_0603_1608Metric,~
+6,2,"C16, C17",4.7?F,490-7203-1-ND,GRM188R61E475KE11D,,N,Device:C,Capacitor_SMD:C_0603_1608Metric,~
+7,1,C19,1.0?F,1276-1184-1-ND,CL10B105KA8NNNC,,Y,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,~
+8,1,C20,0.1?F,1276-1033-1-ND,CL10B104JB8NNNC,,Y,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,~
+9,1,D1,LED,160-1887-1-ND,LTST-C170TGKT,,Y,Device:LED_Filled,LED_SMD:LED_0805_2012Metric,~
+10,1,D2,PWR,160-1427-1-ND,LTST-C171KRKT,,Y,Device:LED_Filled,LED_SMD:LED_0805_2012Metric,~
+11,1,D3,1N4148WT,1N4148WTCT-ND,1N4148WT,,N,Diode:1N4148WT,Diode_SMD:D_SOD-523,https://rocelec.widen.net/view/pdf/bnxdzepaue/ONSM-S-A0003584797-1.pdf?t.download=true&u=5oefqw
+12,1,J1,USB4105-GF-A,2073-USB4105-GF-ACT-ND,USB4105-GF-A,,Y,Eclectronics:USB4105-GF-A,Eclectronics:USB4105-GF-A,
+13,1,J2,TRS_MIDI_IN,CP1-3533NG-ND,SJ1-3533NG,,N,Connector:AudioJack3,Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal,https://www.cuidevices.com/product/resource/sj1-353xng.pdf
+14,1,J3,TRS_MIDI_OUT,CP1-3533NG-ND,SJ1-3533NG,,N,Connector:AudioJack3,Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal,https://www.cuidevices.com/product/resource/sj1-353xng.pdf
+15,1,J4,Conn_02x15_Odd_Even,2057-BHR-30-HUA-ND,BHR-30-HUA,,N,Connector_Generic:Conn_02x15_Odd_Even,Connector_IDC:IDC-Header_2x15_P2.54mm_Horizontal,https://app.adam-tech.com/products/download/data_sheet/203217/bhr-xx-hua-data-sheet.pdf
+16,4,"R1, R2, R3, R4",5.1K?,P5.10KHCT-ND,ERJ-3EKF5101V,,Y,Device:R,Resistor_SMD:R_0603_1608Metric,~
+17,2,"R5, R6",27?,P27.0LCT-ND,ERJ-2RKF27R0X,,Y,Device:R,Resistor_SMD:R_0402_1005Metric,~
+18,2,"R7, R12",1K?,311-1.00KHRCT-ND,RC0603FR-071KL,,Y,Device:R,Resistor_SMD:R_0603_1608Metric,~
+19,5,"R8, R9, R10, R11, R13",10K?,CR0603-FX-1002ELFCT-ND,CR0603-FX-1002ELF,,N,Device:R,Resistor_SMD:R_0603_1608Metric,~
+20,2,"R14, R15",1.8K?,311-1.80KHRCT-ND,RC0603FR-071K8L,,N,Device:R,Resistor_SMD:R_0603_1608Metric,~
+21,1,R16,220?,311-220HRCT-ND,RC0603FR-07220RL,,N,Device:R,Resistor_SMD:R_0603_1608Metric,~
+22,1,R17,10?,13-RC0603FR-1010RLCT-ND,RC0603FR-1010RL,,N,Device:R,Resistor_SMD:R_0603_1608Metric,~
+23,1,R18,33?,311-33.0HRCT-ND,RC0603FR-0733RL,,N,Device:R,Resistor_SMD:R_0603_1608Metric,~
+24,1,R19,4.7K?,311-4.70KHRCT-ND,RC0603FR-074K7L,,N,Device:R_Small,Resistor_SMD:R_0603_1608Metric,~
+25,2,"RV1, RV2",10K,PDB12-H4251-103BF-ND,PDB12-H4251-103BF,,N,Device:R_Potentiometer,3ddie:PDB12-H4251-103BF,https://www.bourns.com/docs/Product-Datasheets/PDB12.pdf
+26,1,S1,RST,EG4374CT-ND,TL3301AF160QJ,,Y,Eclectronics:SW,Eclectronics:TL3301AFxxxxJ,https://www.ckswitches.com/media/1465/kxt3.pdf
+27,1,S2,BOOT,EG4374CT-ND,TL3301AF160QJ,,Y,Eclectronics:SW,Eclectronics:TL3301AFxxxxJ,https://www.ckswitches.com/media/1465/kxt3.pdf
+28,1,U1,W25Q128JV,W25Q128JVPIMCT-ND,W25Q128JVPIM TR,,Y,Eclectronics:W25Q128JV,Eclectronics:MIC_WSON-8,https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf
+29,1,U2,RP2040,2648-SC0914(13)CT-ND,SC0914(13),,Y,Eclectronics:RP2040,Eclectronics:RP2040,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+30,1,U3,MCP1702T-3302E_CB,MCP1702T-3302E/CBCT-ND,MCP1702T-3302E/CB,,Y,Eclectronics:MCP1702T-3302E_CB,Package_TO_SOT_SMD:SOT-23,https://ww1.microchip.com/downloads/en/DeviceDoc/22008E.pdf
+31,1,U4,MGC3130-I/MQ,MGC3130-I/MQ-ND,MGC3130-I/MQ,,N,:MGC3130-I{brace}slash}MQ_1,3ddie:MGC3130T-I_MQ,https://ww1.microchip.com/downloads/en/DeviceDoc/MGC3030-3130-3D-Tracking-and-Gesture-Controller-40001667F.pdf
+32,1,U5,MCP1416R,MCP1416RT-E/OTCT-ND,MCP1416RT-E/OT,,N,Driver_FET:MCP1416R,Package_TO_SOT_SMD:SOT-23-5,http://ww1.microchip.com/downloads/en/DeviceDoc/20002092F.pdf
+33,1,U6,6N137,6N137SM-ND,6N137SM,,N,Isolator:6N137,3ddie:6N137_Leadbend,https://rocelec.widen.net/view/pdf/zs07d29frw/ONSM-S-A0003591003-1.pdf?t.download=true&u=5oefqw
+34,1,Y1,12MHz,490-17944-1-ND,CSTNE12M0G55A000R0,,Y,Eclectronics:Crystal,Eclectronics:CSTNE,https://www.murata.com/en/products/productdata/8801162002462/SPEC-CSTNE12M0G55A000R0.pdf
