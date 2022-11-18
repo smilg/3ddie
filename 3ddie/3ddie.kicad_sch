@@ -5126,7 +5126,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x03") (at 195.58 177.8 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a820514c-f35f-4ba9-953d-5b7e64296f26)
     (property "Reference" "J5" (id 0) (at 198.12 176.5299 0)
       (effects (font (size 1.27 1.27)) (justify left))
