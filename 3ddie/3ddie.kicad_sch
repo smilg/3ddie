@@ -4463,7 +4463,7 @@
     (uuid 5d2df827-ba58-42d3-ae75-4504981e88c0)
     (property "Reference" "S1" (id 0) (at 44.45 77.47 90))
     (property "Value" "RST" (id 1) (at 44.45 80.01 90))
-    (property "Footprint" "Eclectronics:KXT321LHS" (id 2) (at 46.99 76.2 90)
+    (property "Footprint" "Eclectronics:TL3301AFxxxxJ" (id 2) (at 46.99 76.2 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://www.ckswitches.com/media/1465/kxt3.pdf" (id 3) (at 46.99 76.2 90)
@@ -4522,7 +4522,7 @@
     (uuid 6f28eabb-7de3-44e1-afce-60f4a35d1dea)
     (property "Reference" "S2" (id 0) (at 44.45 88.9 90))
     (property "Value" "BOOT" (id 1) (at 44.45 91.44 90))
-    (property "Footprint" "Eclectronics:KXT321LHS" (id 2) (at 46.99 87.63 90)
+    (property "Footprint" "Eclectronics:TL3301AFxxxxJ" (id 2) (at 46.99 87.63 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://www.ckswitches.com/media/1465/kxt3.pdf" (id 3) (at 46.99 87.63 90)
@@ -5960,10 +5960,10 @@
       (reference "RV2") (unit 1) (value "10K") (footprint "3ddie:PDB12-H4251-103BF")
     )
     (path "/5d2df827-ba58-42d3-ae75-4504981e88c0"
-      (reference "S1") (unit 1) (value "RST") (footprint "Eclectronics:KXT321LHS")
+      (reference "S1") (unit 1) (value "RST") (footprint "Eclectronics:TL3301AFxxxxJ")
     )
     (path "/6f28eabb-7de3-44e1-afce-60f4a35d1dea"
-      (reference "S2") (unit 1) (value "BOOT") (footprint "Eclectronics:KXT321LHS")
+      (reference "S2") (unit 1) (value "BOOT") (footprint "Eclectronics:TL3301AFxxxxJ")
     )
     (path "/ee96ba52-31ec-4315-9e3c-7bf0139abbc1"
       (reference "U1") (unit 1) (value "W25Q128JV") (footprint "Eclectronics:MIC_WSON-8")
