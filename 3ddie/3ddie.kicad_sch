@@ -4516,7 +4516,7 @@
     (property "Value" "MGC3130-I/MQ" (id 1) (at 275.0185 125.2072 90)
       (effects (font (size 1.524 1.524)) (justify right))
     )
-    (property "Footprint" "3ddie:MGC3130T-I_MQ" (id 2) (at 223.52 124.714 0)
+    (property "Footprint" "3ddie:MGC3130-I_MQ" (id 2) (at 223.52 124.714 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MGC3030-3130-3D-Tracking-and-Gesture-Controller-40001667F.pdf" (id 3) (at 231.14 143.51 0)
@@ -5160,7 +5160,7 @@
     (property "Value" "MGC3130-I/MQ" (id 1) (at 251.46 71.2358 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "3ddie:MGC3130T-I_MQ" (id 2) (at 251.46 71.374 0)
+    (property "Footprint" "3ddie:MGC3130-I_MQ" (id 2) (at 251.46 71.374 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MGC3030-3130-3D-Tracking-and-Gesture-Controller-40001667F.pdf" (id 3) (at 226.06 77.47 0)
@@ -6352,10 +6352,10 @@
       (reference "U3") (unit 1) (value "MCP1702T-3302E_CB") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/a9329e99-609f-4c39-a02d-48cc774ada87"
-      (reference "U4") (unit 1) (value "MGC3130-I/MQ") (footprint "3ddie:MGC3130T-I_MQ")
+      (reference "U4") (unit 1) (value "MGC3130-I/MQ") (footprint "3ddie:MGC3130-I_MQ")
     )
     (path "/5936d240-6102-4439-994a-788eb8b3c026"
-      (reference "U4") (unit 2) (value "MGC3130-I/MQ") (footprint "3ddie:MGC3130T-I_MQ")
+      (reference "U4") (unit 2) (value "MGC3130-I/MQ") (footprint "3ddie:MGC3130-I_MQ")
     )
     (path "/15b2a124-1eb8-4d1a-932b-488f6e69f5b6"
       (reference "U5") (unit 1) (value "MCP1416R") (footprint "Package_TO_SOT_SMD:SOT-23-5")
