@@ -6,8 +6,8 @@
 
   (title_block
     (title "3ddie")
-    (date "2022-10-30")
-    (rev "1")
+    (date "2022-12-01")
+    (rev "1.1")
     (company "Jacob Smilg, Grant Miner, & Max Stopyra")
     (comment 1 "MGC3130 Based 3D Gesture MIDI Controller")
   )
@@ -4704,7 +4704,7 @@
   (symbol (lib_id "power:GND") (at 181.61 161.925 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 67068661-2538-4653-8b08-9ab2914f3399)
-    (property "Reference" "#PWR?" (id 0) (at 181.61 168.275 0)
+    (property "Reference" "#PWR0106" (id 0) (at 181.61 168.275 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 181.61 166.3684 0))
@@ -6210,7 +6210,7 @@
       (reference "#PWR0105") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/67068661-2538-4653-8b08-9ab2914f3399"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
     )
     (path "/21dca25b-023c-46f9-9df3-7d84a0dc2df5"
       (reference "C1") (unit 1) (value "0.1μF") (footprint "Capacitor_SMD:C_0603_1608Metric")
