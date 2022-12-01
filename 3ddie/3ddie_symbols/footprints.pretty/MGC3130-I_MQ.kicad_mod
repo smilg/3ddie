@@ -228,4 +228,9 @@
   (pad "27" smd rect (at -1.000001 -2.4233) (size 0.2548 0.757199) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd6251b6-1754-426c-ac6f-780a4d52ea3f))
   (pad "28" smd rect (at -1.5 -2.4233) (size 0.2548 0.757199) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 468aeedf-9a63-435f-947d-7fe43ed069bc))
   (pad "29" smd rect (at 0 0) (size 3.3528 3.3528) (layers "F.Cu" "F.Mask") (tstamp 244ce3b0-914e-434f-9462-45724b545165))
+  (model "${KIPRJMOD}/3ddie_symbols/3dmodels/QFN28_5X5MQ_MCH.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
