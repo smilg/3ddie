@@ -32,4 +32,9 @@
   (pad "3" thru_hole circle (at 3.75 10) (size 1.75 1.75) (drill 1) (layers *.Cu *.Mask) (tstamp 0e839c1f-fcf6-48eb-af5e-c176abd65ebb))
   (pad "MP" thru_hole roundrect (at -5.05 0) (size 3.6 3.6) (drill oval 2.7 2.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 2addb3ba-f64e-4920-9b14-de6683971ef0))
   (pad "MP" thru_hole roundrect (at 5.05 0) (size 3.6 3.6) (drill oval 2.7 2.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp d2cbbdac-54b0-4bda-b23a-e9a624df837b))
+  (model "${KIPRJMOD}/3ddie_symbols/3dmodels/PDB12-H4251-103PF.step"
+    (offset (xyz 0 -3.5 2.77))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
