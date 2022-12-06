@@ -76,7 +76,7 @@ uint16_t const* tud_descriptor_string_cb(uint8_t index, uint16_t langid) {
 tusb_desc_device_t const desc_device = {
     .bLength            = sizeof(tusb_desc_device_t),
     .bDescriptorType    = TUSB_DESC_DEVICE,
-    .bcdUSB             = 0x0210,  // Supported USB standard (2.1)
+    .bcdUSB             = 0x0200,  // Supported USB standard (2.0)
     .bDeviceClass       = TUSB_CLASS_MISC,
     .bDeviceSubClass    = MISC_SUBCLASS_COMMON,
     .bDeviceProtocol    = MISC_PROTOCOL_IAD,
