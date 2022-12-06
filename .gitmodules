@@ -1,6 +1,6 @@
 [submodule "firmware/gestic-tools"]
-	path = firmware/gestic-tools
+	path = firmware/usb_i2c_bridge/gestic-tools
 	url = https://github.com/ninjasphere/gestic-tools
 [submodule "firmware/rp2040-i2c-interface"]
-	path = firmware/rp2040-i2c-interface
+	path = firmware/usb_i2c_bridge/rp2040-i2c-interface
 	url = https://github.com/Nicolai-Electronics/rp2040-i2c-interface
